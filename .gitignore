@@ -1,0 +1,40 @@
+##############################
+## Java
+##############################
+.mtj.tmp/
+*.class
+*.jar
+*.war
+*.ear
+*.nar
+hs_err_pid*
+
+##############################
+## Gradle
+##############################
+bin/
+build/
+.gradle
+.gradletasknamecache
+gradle-app.setting
+!gradle-wrapper.jar
+
+##############################
+## IntelliJ
+##############################
+out/
+.idea/
+.idea_modules/
+*.iml
+*.ipr
+*.iws
+
+##############################
+## Hyperskill
+##############################
+Problems/
+ReadabilityScore/More parameters/
+ReadabilityScore/Score_/
+ReadabilityScore/Simplest estimation/
+ReadabilityScore/Words and sentences/
+test.txt
